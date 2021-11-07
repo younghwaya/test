@@ -1,0 +1,1 @@
+print(int(random(1,29)))
